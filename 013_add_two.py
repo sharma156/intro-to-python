@@ -11,6 +11,13 @@ from lib.helpers import check_that_these_are_equal
 # * Returns the result
 
 # YOUR FUNCTION GOES BELOW THIS LINE
+def add_two(number):
+  
+    return number + 2
+
+# Test the function
+result = add_two(5)
+print(result)  # Output: 7
 
 
 
